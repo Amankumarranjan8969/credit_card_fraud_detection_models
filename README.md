@@ -1,4 +1,4 @@
-# credit_card_fraud_detection_models
+#  Credit Card Fraud Detection System
 ML project for detecting fraudulent transactions using classification techniques and imbalanced data handling.
 # 💳 Credit Card Fraud Detection System
 
